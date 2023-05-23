@@ -1,6 +1,6 @@
 ## Machine Learning Final Project - Breast Cancer Classifier
 
-This repository contains the final project for the Machine Learning class. The project focuses on developing a classifier for breast cancer detection, aiming to improve awareness and facilitate early detection of the disease.
+This repository contains the final project for my Machine Learning class in my Graduate Program. The project focuses on developing a classifier for breast cancer detection, aiming to improve awareness and facilitate early detection of the disease.
 
 ### Motivation
 
